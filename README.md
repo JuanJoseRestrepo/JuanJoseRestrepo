@@ -4,6 +4,15 @@
 
 ![R6S_Wallpaper-04_1920x1080](https://user-images.githubusercontent.com/47890848/99463387-9d8f7f80-2903-11eb-8895-c7956dd1d752.jpg)
 
+:godmode: Dark Souls Player
+:palm_tree: Icesi Student
+:money_mouth_face:  Spongebob mobster
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/berserkgutts33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="berserkgutts33" height="30" width="40" /> BerserkGutts33</a>
+</p>
+
 <!--
 **JuanJoseRestrepo/JuanJoseRestrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
