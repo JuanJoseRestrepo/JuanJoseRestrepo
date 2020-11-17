@@ -1,6 +1,9 @@
 ### ¿Qué tal hijos de ODIN? 👋
 ## Juan José Restrepo Bonilla
 
+
+![R6S_Wallpaper-04_1920x1080](https://user-images.githubusercontent.com/47890848/99463387-9d8f7f80-2903-11eb-8895-c7956dd1d752.jpg)
+
 <!--
 **JuanJoseRestrepo/JuanJoseRestrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
