@@ -3,10 +3,11 @@
 
 
 ![R6S_Wallpaper-04_1920x1080](https://user-images.githubusercontent.com/47890848/99463387-9d8f7f80-2903-11eb-8895-c7956dd1d752.jpg)
-
+<p>
 :godmode: Dark Souls Player
 :palm_tree: Icesi Student
 :money_mouth_face:  Spongebob mobster
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
