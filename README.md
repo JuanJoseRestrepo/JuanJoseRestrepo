@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/berserkgutts33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="berserkgutts33" height="30" width="40" /> BerserkGutts33</a>
+<a href="https://instagram.com/berserkguts33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="berserkguts33" height="30" width="40" /> berserkguts33</a>
 </p>
 
 <!--
