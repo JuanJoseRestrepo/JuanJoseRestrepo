@@ -14,8 +14,7 @@
 </p>
 
 <p>
- Expresiones regulares : :money_mouth_face:
-<a href="https://instagram.com/berserkguts33" target="blank">:money_mouth_face:</a> 
+<a href="https://instagram.com/berserkguts33" target="blank">Expresiones regulares: :money_mouth_face:</a> 
 </p>
 <!--
 **JuanJoseRestrepo/JuanJoseRestrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
