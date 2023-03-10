@@ -21,4 +21,5 @@
 -->
 
 
-![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true&theme=dark&theme=dark&hide=contribs,prs&show_icons=true)
+![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true&theme=dark)
+![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&hide=contribs,prs&show_icons=true&theme=dark)
