@@ -52,14 +52,14 @@
 <h3 align="left">HalsteinKahn Spotify Playing</h3><p align="Center">
 <picture>
 <source 
-  srcset="https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+  srcset="https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="[https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)" />
 </picture>
  </p>
 
