@@ -53,5 +53,5 @@
 ![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&count_private=true&theme=radical)
 
 </p>
-
+<img src="https://https://spotify-deploy-name.vercel.app/api/spotify" alt="HalsteinKahn spotify playing" width="350">
 [![Spotify](https://https://spotify-deploy-name.vercel.app/api/spotify)](https://open.spotify.com/user/22h6jdpv7m3gfhpldll7k36ci)
