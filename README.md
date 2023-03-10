@@ -21,5 +21,6 @@
 -->
 
 ![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&hide=contribs,prs)
+![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&hide=contribs,prs)
 ![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true)
+![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
