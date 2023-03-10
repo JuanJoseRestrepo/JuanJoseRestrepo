@@ -1,14 +1,14 @@
 <h3 align= "left"> Top uses languages: </h3>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&hide_progress=true&theme=dark)"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&langs_count=8&theme=dark)"
   media="(prefers-color-scheme: dark)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&hide_progress=true&theme=dark)" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&langs_count=8&theme=dark)" />
 </picture>
 
 <p aling="Center">
