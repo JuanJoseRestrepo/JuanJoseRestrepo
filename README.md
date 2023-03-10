@@ -53,4 +53,4 @@
 
 ![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&count_private=true&theme=radical)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
