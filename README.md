@@ -1,5 +1,5 @@
+<h1 align= "left"> Top uses languages: </h1>
 <p aling="Center">
-<h2 align= "left"> Top uses languages: </h2>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&langs_count=5&theme=dark)"
