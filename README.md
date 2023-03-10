@@ -1,3 +1,4 @@
+<p aling="Center">
 <h3 align= "left"> Top uses languages: </h3>
 <picture>
 <source 
@@ -10,6 +11,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&langs_count=8&theme=dark)" />
 </picture>
+</p>
 
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
