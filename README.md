@@ -3,7 +3,7 @@
 
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
-  <h3 align= "left"> 
+  <h3 align= "justify"> 
   As a passionate software engineer with nearly 1 year of experience in Java and Spring Boot, I have developed expertise in meeting
   customer requirements using efficiency, efficacy, and scrum
   methodology. In addition, my Junior DevOps experience has
