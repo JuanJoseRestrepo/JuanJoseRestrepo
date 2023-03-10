@@ -54,4 +54,4 @@
 
 </p>
 
-![Spotify](https://https://juan-jose-restrepo.vercel.app//api/spotify)
+![Spotify](https://https://juan-jose-restrepo.vercel.app/api/spotify)
