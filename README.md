@@ -1,5 +1,5 @@
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align= "left"> Top uses languages: </h3> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
