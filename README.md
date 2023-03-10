@@ -1,5 +1,14 @@
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<picture>
+<source 
+  srcset="https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="[https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)" />
+</picture>
   
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
