@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/halsteinkahn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="halsteinkahn" height="30" width="40" />halsteinkahn</a>
-  <a href="https://www.linkedin.com/in/juan-jose-restrepo-bonilla-199588248" src="![image](https://user-images.githubusercontent.com/47890848/224342227-ac9a2571-0798-4121-828d-c129de36f5b8.png)">HalsteinKahn Linkedin profile</a>
+<a href="https://www.linkedin.com/in/juan-jose-restrepo-bonilla-199588248" src="https://user-images.githubusercontent.com/22801918/89466567-7218c880-d74a-11ea-8d27-c83eb8a7f49c.png">HalsteinKahn Linkedin profile</a>
 </p>
 
 <p>
