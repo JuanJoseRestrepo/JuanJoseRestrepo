@@ -30,7 +30,7 @@
 </p>
 
 <p asign= "left">
- <a href="https://www.linkedin.com/in/juan-jose-restrepo-bonilla-199588248" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40">HalsteinKahn Linkedin profile</a> 
+ <a href="https://www.linkedin.com/in/juan-jose-restrepo-bonilla-199588248" src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" height="30" width="40">HalsteinKahn Linkedin profile</a> 
 </p>
 
 <p>
