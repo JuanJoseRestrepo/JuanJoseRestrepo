@@ -1,7 +1,9 @@
 ### ¿Qué tal hijos de ODIN? 👋
 ## Juan José Restrepo Bonilla
 
-![R6S_Wallpaper-04_1920x1080](https://user-images.githubusercontent.com/47890848/99463387-9d8f7f80-2903-11eb-8895-c7956dd1d752.jpg)
+<p aling="Center">
+  <h1 align="left"> My professional profile: </h1>
+</p>
 <p>
 :godmode: Dark Souls Player
 :palm_tree: Icesi Student
