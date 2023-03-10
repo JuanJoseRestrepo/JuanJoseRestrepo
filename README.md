@@ -1,7 +1,7 @@
-<p> 
-<h3 align= "justify"> 
+
+<h3 align= "Center"> HalsteinKahn Spotify playing:</h3>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&redirect=true)
-</p>   
+  
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
   <h3 align= "justify"> 
