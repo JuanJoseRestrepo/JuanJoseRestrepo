@@ -1,5 +1,5 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/JuanJoseRestrepo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJoseRestrepo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
