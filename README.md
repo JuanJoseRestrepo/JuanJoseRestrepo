@@ -3,18 +3,19 @@
 
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
-  <h3 align= "left"> As a passionate software engineer with nearly 1 year of experience in Java and Spring Boot, I have developed expertise in meeting
-customer requirements using efficiency, efficacy, and scrum
-methodology. In addition, my Junior DevOps experience has
-allowed me to work with technologies such as Ansible, Docker,
-Vagrant, and cloud services on AWS and Azure. Skilled in
-automating routine tasks using scripting languages like Python
-and Bash, I have experience setting up and configuring continuous
-integration and delivery pipelines, as well as monitoring and
-logging solutions. Working well in a team environment, I am
-committed to delivering high-quality work using agile and DevOps
-principles. With a strong willingness to learn and grow, I am eager
-to continue developing my skills as a DevOps Engineer.
+  <h3 align= "left"> 
+  As a passionate software engineer with nearly 1 year of experience in Java and Spring Boot, I have developed expertise in meeting
+  customer requirements using efficiency, efficacy, and scrum
+  methodology. In addition, my Junior DevOps experience has
+  allowed me to work with technologies such as Ansible, Docker,
+  Vagrant, and cloud services on AWS and Azure. Skilled in
+  automating routine tasks using scripting languages like Python
+  and Bash, I have experience setting up and configuring continuous
+  integration and delivery pipelines, as well as monitoring and
+  logging solutions. Working well in a team environment, I am
+  committed to delivering high-quality work using agile and DevOps
+  principles. With a strong willingness to learn and grow, I am eager
+  to continue developing my skills as a DevOps Engineer.
  </h3>
 </p>
 <p>
@@ -26,6 +27,7 @@ to continue developing my skills as a DevOps Engineer.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/halsteinkahn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="halsteinkahn" height="30" width="40" />halsteinkahn</a>
+  <a href="https://www.linkedin.com/in/juan-jose-restrepo-bonilla-199588248" src="![image](https://user-images.githubusercontent.com/47890848/224342227-ac9a2571-0798-4121-828d-c129de36f5b8.png)">HalsteinKahn Linkedin profile</a>
 </p>
 
 <p>
