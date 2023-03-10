@@ -1,3 +1,6 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
   <h3 align= "justify"> 
