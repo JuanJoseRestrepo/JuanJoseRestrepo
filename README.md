@@ -50,6 +50,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true" />
 </picture>
 
-![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&count_private=true&theme=dark)
+![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&count_private=true&theme=radical)
 
 </p>
