@@ -53,3 +53,5 @@
 ![Juan Jose GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&count_private=true&theme=radical)
 
 </p>
+
+![Spotify](https://https://juan-jose-restrepo.vercel.app//api/spotify)
