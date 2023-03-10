@@ -54,4 +54,4 @@
 
 </p>
 
-![Spotify](https://https://spotify-deploy-name.vercel.app/api/spotify)
+[![Spotify](https://https://spotify-deploy-name.vercel.app/api/spotify)](https://open.spotify.com/user/22h6jdpv7m3gfhpldll7k36ci)
