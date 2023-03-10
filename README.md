@@ -1,3 +1,4 @@
+<h3 align="left">HalsteinKahn Spotify Playing</h3><p align="Center">
 <picture>
 <source 
   srcset="https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"
@@ -9,7 +10,7 @@
 />
 <img src="[https://github-readme-stats.vercel.app/api?username=JuanJoseRestrepo&show_icons=true](https://spotify-github-profile.vercel.app/api/view?uid=22h6jdpv7m3gfhpldll7k36ci&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)" />
 </picture>
-  
+ </p>
 <p aling="Center">
   <h1 align="left"> My professional profile: </h1>
   <h3 align= "justify"> 
