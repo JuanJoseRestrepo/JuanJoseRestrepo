@@ -18,15 +18,11 @@
   <h4 align= "justify"> 
   As a passionate software engineer with nearly 1 year of experience in Java and Spring Boot, I have developed expertise in meeting
   customer requirements using efficiency, efficacy, and scrum
-  methodology. In addition, my Junior DevOps experience has
+  methodology. In addition, on my training DevOps experience has
   allowed me to work with technologies such as Ansible, Docker,
   Vagrant, and cloud services on AWS and Azure. Skilled in
   automating routine tasks using scripting languages like Python
-  and Bash, I have experience setting up and configuring continuous
-  integration and delivery pipelines, as well as monitoring and
-  logging solutions. Working well in a team environment, I am
-  committed to delivering high-quality work using agile and DevOps
-  principles. With a strong willingness to learn and grow, I am eager
+  and knowlodge basic Bash. With a strong willingness to learn and grow, I am eager
   to continue developing my skills as a DevOps Engineer.
  </h4>
 </p>
